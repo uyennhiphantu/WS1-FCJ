@@ -15,9 +15,10 @@ Amazon Athena là dịch vụ interactive analytics, serverless, được xây d
 ![Alt text](image-1.png)
 ### Nội dung
 
- 1. [Giới thiệu](1-introduce/)
- 2. [Các bước chuẩn bị](2-Prerequiste/)
- 3. [Tạo kết nối đến máy chủ EC2](3-Accessibilitytoinstance/)
- 4. [Quản lý session logs](4-s3log/)
- 5. [Port Forwarding](5-Portfwd/)
- 6. [Dọn dẹp tài nguyên](6-cleanup/)
+ 1. [Amazon Athena là gì?](1-athena/)
+ 2. [Các bước chuẩn bị](2-prepare/)
+ 3. [Athena Basics](3-basics/)
+ 4. [ETL và Athena CTAS](4-etl/)
+ 5. [Athena Workgroups](5-athena-wg/)
+ 6. [Trực quan hóa bằng Quicksight trên Amazon Athena](6-qs/)
+ 6. [Dọn dẹp tài nguyên](7-cleanup/)
