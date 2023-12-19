@@ -10,7 +10,7 @@ pre : " <b> 2. </b> "
 
 Trước khi bắt đầu workshop Amazon Athena này, bạn cần tạo các tài nguyên AWS cần thiết. Để thực hiện việc này, chúng tôi cung cấp mẫu AWS CloudFormation để tạo stack chứa tài nguyên. Khi bạn tạo stack, AWS sẽ tạo một số tài nguyên trong tài khoản của bạn.
 
-Để khởi chạy CloudFormation stack, hãy nhấp vào Launch Stack.
+Để khởi chạy CloudFormation stack, hãy nhấp vào **[Launch Stack](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=athena-workshop&templateURL=https://ws-assets-prod-iad-r-iad-ed304a55c2ca1aee.s3.us-east-1.amazonaws.com/9981f1a1-abdc-49b5-8387-cb01d238bb78/v1/CloudFormation/Athena-Workshop.yaml).**
   
 {{% notice note %}}
 Các mẫu này được tạo cho vùng us-east-1 region (N. Virginia) và sẽ không hoạt động ở các vùng khác. Không thay đổi bất kỳ tham số Cơ sở dữ liệu mặc định nào trong CloudFormation
