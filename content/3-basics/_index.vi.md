@@ -26,7 +26,4 @@ Phần nội dung của Athena Basics bao gồm các mục chính như sau:
 - 3.5 [Tạo Chế độ xem](3.5-tao-view)
 - 3.6 [Tái sử dụng kết quả truy vấn](3.6-reuse-query)
 - 3.7 [Kết quả và lịch sử truy vấn](3.7-his-re-query)
-- 3.8 [ETL và Athena CTAS](3.8-etl-athe)
-- 3.9 [Athena Workgroups](3.9-athena-wg)
-- 3.10 [Trực quan hoá bằng QuickSight trên Athena](3.10-qs)
 
